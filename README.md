@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lovejblack
-- I want a socail media platform [VISION] designed to give artists control over their content.
+- Wanna start a podcast? I record my part everyday, you download the source and add your part.
 - I am currently learning spanish.
 - I'd love to find positive people that love this project and want to create it.
 - lovejetblack@gmail.com
